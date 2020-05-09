@@ -1,6 +1,8 @@
 # PyTorch 中文手册（pytorch handbook）
 ![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
+测试合并
+
 ## 书籍介绍
 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。
 
